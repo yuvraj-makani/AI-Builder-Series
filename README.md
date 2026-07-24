@@ -83,19 +83,6 @@ AI-Builder-Series/
 ```
 ---
 
-# 🚀 Current Progress
-
-- ✅ Python Basics
-- ✅ NumPy
-- ✅ OpenCV Fundamentals
-- 🚧 Computer Vision Projects
-- ⏳ Machine Learning
-- ⏳ Deep Learning
-- ⏳ NLP
-- ⏳ Generative AI
-
----
-
 # 🎯 Purpose of This Repository
 
 This repository is built to:
